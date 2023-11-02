@@ -7,6 +7,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Do operations on objects (count, compute stats, etc...)
 * Update attributes of an object
 * Destroy an object
+![alt text](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png)
 
 ## Table of Content
 * [Environment](#environment)
