@@ -41,13 +41,8 @@ def hbnb():
     return render_template('100-hbnb.html',
                            states=st_ct,
                            amenities=amenities,
-                           places=places
-                           cache_id=cache_id)  # Pass the cache_id as a variable
-
-
-
-
-
+                           places=places,
+                           cache_id=cache_id),
 
 if __name__ == "__main__":
     """ Main Function """
